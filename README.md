@@ -8,7 +8,7 @@
 > Palm-veins are a novel biometric which means they have inbuilt anti-spoofing qualities and high stability, making it impossible to fake. Additionally, veins cannot be read from lifeless bodies or severed hands.
 > 
 
-![Untitled](Palm%20Vein%20Recognition%20using%20CNNs%205061ea292264492088b10d63ac77f9ae/Untitled.png)
+![Untitled](README_Images/Untitled 1.png)
 
 - And imagery is not occluded by makeup or accessories.
 - Our objective is to combined three CNN models using Decision-Level Fusion to obtain a robust and highly accurate ensemble CNN system that can accurately perform palm-vein recognition.
